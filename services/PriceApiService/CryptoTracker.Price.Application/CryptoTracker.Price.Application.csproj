@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\CryptoTracker.Price.Domain\CryptoTracker.Price.Domain.csproj" />
+	  <ProjectReference Include="..\..\..\Shared\CryptoTracker.Shared.Domain\CryptoTracker.Shared.Domain.csproj" />
+	  <ProjectReference Include="..\..\..\Shared\CryptoTracker.Shared.Infrastructure\CryptoTracker.Shared.Infrastructure.csproj" />
+
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

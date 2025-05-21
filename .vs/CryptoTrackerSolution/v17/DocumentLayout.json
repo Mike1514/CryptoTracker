@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CryptoTrackerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D047FEC1-B743-4931-91D2-42E4C7EF2B6B}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\CryptoTracker.Fetcher.Infrastructure.csproj|d:\\cryptotrackersolution\\services\\pricefetcherservice\\cryptotracker.fetcher.infrastructure\\cryptotrackerdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D047FEC1-B743-4931-91D2-42E4C7EF2B6B}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\CryptoTracker.Fetcher.Infrastructure.csproj|solutionrelative:services\\pricefetcherservice\\cryptotracker.fetcher.infrastructure\\cryptotrackerdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09D1719-AB84-4D06-998C-B1C1332B4B90}|Shared\\CryptoTracker.Shared.Infrastructure\\CryptoTracker.Shared.Infrastructure.csproj|d:\\cryptotrackersolution\\shared\\cryptotracker.shared.infrastructure\\pricedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09D1719-AB84-4D06-998C-B1C1332B4B90}|Shared\\CryptoTracker.Shared.Infrastructure\\CryptoTracker.Shared.Infrastructure.csproj|solutionrelative:shared\\cryptotracker.shared.infrastructure\\pricedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A4ED7D-7E7E-4D25-B9B7-10C13475ABCE}|services\\PriceApiService\\CryptoTracker.Price.Tests\\CryptoTracker.Price.Tests.csproj|d:\\cryptotrackersolution\\services\\priceapiservice\\cryptotracker.price.tests\\priceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A4ED7D-7E7E-4D25-B9B7-10C13475ABCE}|services\\PriceApiService\\CryptoTracker.Price.Tests\\CryptoTracker.Price.Tests.csproj|solutionrelative:services\\priceapiservice\\cryptotracker.price.tests\\priceservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D15636B-670B-4908-9711-D67CF160B62D}|services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\CryptoTracker.Price.Infrastructure.csproj|d:\\cryptotrackersolution\\services\\priceapiservice\\cryptotracker.price.infrastructure\\cryptotracker.price.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D15636B-670B-4908-9711-D67CF160B62D}|services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\CryptoTracker.Price.Infrastructure.csproj|solutionrelative:services\\priceapiservice\\cryptotracker.price.infrastructure\\cryptotracker.price.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\CryptoTracker.Fetcher.Application.csproj|d:\\cryptotrackersolution\\services\\pricefetcherservice\\cryptotracker.fetcher.application\\dtos\\pricedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\CryptoTracker.Fetcher.Application.csproj|solutionrelative:services\\pricefetcherservice\\cryptotracker.fetcher.application\\dtos\\pricedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E159D620-D843-4174-B3DA-BF4EE5AFACA5}|services\\PriceApiService\\CryptoTracker.Price.API\\CryptoTracker.Price.API.csproj|d:\\cryptotrackersolution\\services\\priceapiservice\\cryptotracker.price.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E159D620-D843-4174-B3DA-BF4EE5AFACA5}|services\\PriceApiService\\CryptoTracker.Price.API\\CryptoTracker.Price.API.csproj|solutionrelative:services\\priceapiservice\\cryptotracker.price.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A60E00-485B-49F9-A2B3-3857505B4403}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Tests\\CryptoTracker.Fetcher.Tests.csproj|d:\\cryptotrackersolution\\services\\pricefetcherservice\\cryptotracker.fetcher.tests\\pricefetcherservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A60E00-485B-49F9-A2B3-3857505B4403}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Tests\\CryptoTracker.Fetcher.Tests.csproj|solutionrelative:services\\pricefetcherservice\\cryptotracker.fetcher.tests\\pricefetcherservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D15636B-670B-4908-9711-D67CF160B62D}|services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\CryptoTracker.Price.Infrastructure.csproj|d:\\cryptotrackersolution\\services\\priceapiservice\\cryptotracker.price.infrastructure\\services\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D15636B-670B-4908-9711-D67CF160B62D}|services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\CryptoTracker.Price.Infrastructure.csproj|solutionrelative:services\\priceapiservice\\cryptotracker.price.infrastructure\\services\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A5DF22-3239-43B8-8C33-70F5081EF389}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Worker\\CryptoTracker.Fetcher.Worker.csproj|d:\\cryptotrackersolution\\services\\pricefetcherservice\\cryptotracker.fetcher.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56A5DF22-3239-43B8-8C33-70F5081EF389}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Worker\\CryptoTracker.Fetcher.Worker.csproj|solutionrelative:services\\pricefetcherservice\\cryptotracker.fetcher.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D047FEC1-B743-4931-91D2-42E4C7EF2B6B}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\CryptoTracker.Fetcher.Infrastructure.csproj|d:\\cryptotrackersolution\\services\\pricefetcherservice\\cryptotracker.fetcher.infrastructure\\services\\pricefetcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D047FEC1-B743-4931-91D2-42E4C7EF2B6B}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\CryptoTracker.Fetcher.Infrastructure.csproj|solutionrelative:services\\pricefetcherservice\\cryptotracker.fetcher.infrastructure\\services\\pricefetcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D442E6-17F9-4ADB-919F-462953FBF5AB}|services\\PriceApiService\\CryptoTracker.Price.Application\\CryptoTracker.Price.Application.csproj|d:\\cryptotrackersolution\\services\\priceapiservice\\cryptotracker.price.application\\mappers\\pricedtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D442E6-17F9-4ADB-919F-462953FBF5AB}|services\\PriceApiService\\CryptoTracker.Price.Application\\CryptoTracker.Price.Application.csproj|solutionrelative:services\\priceapiservice\\cryptotracker.price.application\\mappers\\pricedtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D442E6-17F9-4ADB-919F-462953FBF5AB}|services\\PriceApiService\\CryptoTracker.Price.Application\\CryptoTracker.Price.Application.csproj|d:\\cryptotrackersolution\\services\\priceapiservice\\cryptotracker.price.application\\dtos\\pricerecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D442E6-17F9-4ADB-919F-462953FBF5AB}|services\\PriceApiService\\CryptoTracker.Price.Application\\CryptoTracker.Price.Application.csproj|solutionrelative:services\\priceapiservice\\cryptotracker.price.application\\dtos\\pricerecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\CryptoTracker.Fetcher.Application.csproj|d:\\cryptotrackersolution\\services\\pricefetcherservice\\cryptotracker.fetcher.application\\validators\\pricedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\CryptoTracker.Fetcher.Application.csproj|solutionrelative:services\\pricefetcherservice\\cryptotracker.fetcher.application\\validators\\pricedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\CryptoTracker.Fetcher.Application.csproj|d:\\cryptotrackersolution\\services\\pricefetcherservice\\cryptotracker.fetcher.application\\mappers\\pricedtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\CryptoTracker.Fetcher.Application.csproj|solutionrelative:services\\pricefetcherservice\\cryptotracker.fetcher.application\\mappers\\pricedtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D4B40-78C5-4ED9-8A3A-F01D922027C4}|Shared\\CryptoTracker.Shared.Domain\\CryptoTracker.Shared.Domain.csproj|d:\\cryptotrackersolution\\shared\\cryptotracker.shared.domain\\pricerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D4B40-78C5-4ED9-8A3A-F01D922027C4}|Shared\\CryptoTracker.Shared.Domain\\CryptoTracker.Shared.Domain.csproj|solutionrelative:shared\\cryptotracker.shared.domain\\pricerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E159D620-D843-4174-B3DA-BF4EE5AFACA5}|services\\PriceApiService\\CryptoTracker.Price.API\\CryptoTracker.Price.API.csproj|d:\\cryptotrackersolution\\services\\priceapiservice\\cryptotracker.price.api\\cryptotracker.price.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E159D620-D843-4174-B3DA-BF4EE5AFACA5}|services\\PriceApiService\\CryptoTracker.Price.API\\CryptoTracker.Price.API.csproj|solutionrelative:services\\priceapiservice\\cryptotracker.price.api\\cryptotracker.price.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E159D620-D843-4174-B3DA-BF4EE5AFACA5}|services\\PriceApiService\\CryptoTracker.Price.API\\CryptoTracker.Price.API.csproj|d:\\cryptotrackersolution\\services\\priceapiservice\\cryptotracker.price.api\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E159D620-D843-4174-B3DA-BF4EE5AFACA5}|services\\PriceApiService\\CryptoTracker.Price.API\\CryptoTracker.Price.API.csproj|solutionrelative:services\\priceapiservice\\cryptotracker.price.api\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D442E6-17F9-4ADB-919F-462953FBF5AB}|services\\PriceApiService\\CryptoTracker.Price.Application\\CryptoTracker.Price.Application.csproj|d:\\cryptotrackersolution\\services\\priceapiservice\\cryptotracker.price.application\\interfaces\\ipriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D442E6-17F9-4ADB-919F-462953FBF5AB}|services\\PriceApiService\\CryptoTracker.Price.Application\\CryptoTracker.Price.Application.csproj|solutionrelative:services\\priceapiservice\\cryptotracker.price.application\\interfaces\\ipriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\CryptoTracker.Fetcher.Application.csproj|d:\\cryptotrackersolution\\services\\pricefetcherservice\\cryptotracker.fetcher.application\\interfaces\\ipricefetcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}|services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\CryptoTracker.Fetcher.Application.csproj|solutionrelative:services\\pricefetcherservice\\cryptotracker.fetcher.application\\interfaces\\ipricefetcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PriceFetcherServiceTests.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Tests\\PriceFetcherServiceTests.cs",
+              "RelativeDocumentMoniker": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Tests\\PriceFetcherServiceTests.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Tests\\PriceFetcherServiceTests.cs",
+              "RelativeToolTip": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Tests\\PriceFetcherServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:45:53.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CryptoTrackerDbContextFactory.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\CryptoTrackerDbContextFactory.cs",
+              "RelativeDocumentMoniker": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\CryptoTrackerDbContextFactory.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\CryptoTrackerDbContextFactory.cs",
+              "RelativeToolTip": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\CryptoTrackerDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:44:00.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CryptoTracker.Price.API",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.API\\CryptoTracker.Price.API.csproj",
+              "RelativeDocumentMoniker": "services\\PriceApiService\\CryptoTracker.Price.API\\CryptoTracker.Price.API.csproj",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.API\\CryptoTracker.Price.API.csproj",
+              "RelativeToolTip": "services\\PriceApiService\\CryptoTracker.Price.API\\CryptoTracker.Price.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T17:29:54.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriceDbContext.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\Shared\\CryptoTracker.Shared.Infrastructure\\PriceDbContext.cs",
+              "RelativeDocumentMoniker": "Shared\\CryptoTracker.Shared.Infrastructure\\PriceDbContext.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\Shared\\CryptoTracker.Shared.Infrastructure\\PriceDbContext.cs",
+              "RelativeToolTip": "Shared\\CryptoTracker.Shared.Infrastructure\\PriceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:17:36.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PriceRecord.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\Shared\\CryptoTracker.Shared.Domain\\PriceRecord.cs",
+              "RelativeDocumentMoniker": "Shared\\CryptoTracker.Shared.Domain\\PriceRecord.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\Shared\\CryptoTracker.Shared.Domain\\PriceRecord.cs",
+              "RelativeToolTip": "Shared\\CryptoTracker.Shared.Domain\\PriceRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:16:02.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriceServiceTests.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Tests\\PriceServiceTests.cs",
+              "RelativeDocumentMoniker": "services\\PriceApiService\\CryptoTracker.Price.Tests\\PriceServiceTests.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Tests\\PriceServiceTests.cs",
+              "RelativeToolTip": "services\\PriceApiService\\CryptoTracker.Price.Tests\\PriceServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:57:58.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PriceController.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.API\\Controllers\\PriceController.cs",
+              "RelativeDocumentMoniker": "services\\PriceApiService\\CryptoTracker.Price.API\\Controllers\\PriceController.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.API\\Controllers\\PriceController.cs",
+              "RelativeToolTip": "services\\PriceApiService\\CryptoTracker.Price.API\\Controllers\\PriceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:52:35.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.API\\Program.cs",
+              "RelativeDocumentMoniker": "services\\PriceApiService\\CryptoTracker.Price.API\\Program.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.API\\Program.cs",
+              "RelativeToolTip": "services\\PriceApiService\\CryptoTracker.Price.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:51:21.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CryptoTracker.Price.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\CryptoTracker.Price.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\CryptoTracker.Price.Infrastructure.csproj",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\CryptoTracker.Price.Infrastructure.csproj",
+              "RelativeToolTip": "services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\CryptoTracker.Price.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T15:49:53.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PriceDtoMapper.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Application\\Mappers\\PriceDtoMapper.cs",
+              "RelativeDocumentMoniker": "services\\PriceApiService\\CryptoTracker.Price.Application\\Mappers\\PriceDtoMapper.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Application\\Mappers\\PriceDtoMapper.cs",
+              "RelativeToolTip": "services\\PriceApiService\\CryptoTracker.Price.Application\\Mappers\\PriceDtoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:46:57.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPriceService.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Application\\Interfaces\\IPriceService.cs",
+              "RelativeDocumentMoniker": "services\\PriceApiService\\CryptoTracker.Price.Application\\Interfaces\\IPriceService.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Application\\Interfaces\\IPriceService.cs",
+              "RelativeToolTip": "services\\PriceApiService\\CryptoTracker.Price.Application\\Interfaces\\IPriceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:45:57.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PriceRecordDto.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Application\\DTOs\\PriceRecordDto.cs",
+              "RelativeDocumentMoniker": "services\\PriceApiService\\CryptoTracker.Price.Application\\DTOs\\PriceRecordDto.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Application\\DTOs\\PriceRecordDto.cs",
+              "RelativeToolTip": "services\\PriceApiService\\CryptoTracker.Price.Application\\DTOs\\PriceRecordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:44:55.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PriceService.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\Services\\PriceService.cs",
+              "RelativeDocumentMoniker": "services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\Services\\PriceService.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\Services\\PriceService.cs",
+              "RelativeToolTip": "services\\PriceApiService\\CryptoTracker.Price.Infrastructure\\Services\\PriceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:41:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PriceFetcherService.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\Services\\PriceFetcherService.cs",
+              "RelativeDocumentMoniker": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\Services\\PriceFetcherService.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\Services\\PriceFetcherService.cs",
+              "RelativeToolTip": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Infrastructure\\Services\\PriceFetcherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:33:01.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPriceFetcherService.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Interfaces\\IPriceFetcherService.cs",
+              "RelativeDocumentMoniker": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Interfaces\\IPriceFetcherService.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Interfaces\\IPriceFetcherService.cs",
+              "RelativeToolTip": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Interfaces\\IPriceFetcherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:32:06.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PriceDtoMapper.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Mappers\\PriceDtoMapper.cs",
+              "RelativeDocumentMoniker": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Mappers\\PriceDtoMapper.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Mappers\\PriceDtoMapper.cs",
+              "RelativeToolTip": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Mappers\\PriceDtoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:17:12.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PriceDtoValidator.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Validators\\PriceDtoValidator.cs",
+              "RelativeDocumentMoniker": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Validators\\PriceDtoValidator.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Validators\\PriceDtoValidator.cs",
+              "RelativeToolTip": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\Validators\\PriceDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:14:49.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriceDto.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\DTOs\\PriceDto.cs",
+              "RelativeDocumentMoniker": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\DTOs\\PriceDto.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\DTOs\\PriceDto.cs",
+              "RelativeToolTip": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Application\\DTOs\\PriceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:03:08.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Worker\\Program.cs",
+              "RelativeDocumentMoniker": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Worker\\Program.cs",
+              "ToolTip": "D:\\CryptoTrackerSolution\\services\\PriceFetcherService\\CryptoTracker.Fetcher.Worker\\Program.cs",
+              "RelativeToolTip": "services\\PriceFetcherService\\CryptoTracker.Fetcher.Worker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:20:25.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

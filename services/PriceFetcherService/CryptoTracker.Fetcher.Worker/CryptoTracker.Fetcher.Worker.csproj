@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-CryptoTracker.Fetcher.Worker-d3d4e4d7-1e9e-4b38-ac0c-e13898b388d4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="9.0.5" />
+  </ItemGroup>
+	
+	<ItemGroup>
+		<None Update="appsettings.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+	<ItemGroup>
+    <ProjectReference Include="..\CryptoTracker.Fetcher.Infrastructure\CryptoTracker.Fetcher.Infrastructure.csproj" />
+		<ProjectReference Include="..\..\..\Shared\CryptoTracker.Shared.Domain\CryptoTracker.Shared.Domain.csproj" />
+		<ProjectReference Include="..\..\..\Shared\CryptoTracker.Shared.Infrastructure\CryptoTracker.Shared.Infrastructure.csproj" />
+
+	</ItemGroup>
+</Project>

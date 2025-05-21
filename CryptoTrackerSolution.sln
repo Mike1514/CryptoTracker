@@ -1,0 +1,115 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Fetcher.Domain", "services\PriceFetcherService\CryptoTracker.Fetcher.Domain\CryptoTracker.Fetcher.Domain.csproj", "{AB5E4924-52BA-4621-8D2C-F608F330B768}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Fetcher.Infrastructure", "services\PriceFetcherService\CryptoTracker.Fetcher.Infrastructure\CryptoTracker.Fetcher.Infrastructure.csproj", "{D047FEC1-B743-4931-91D2-42E4C7EF2B6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Fetcher.Worker", "services\PriceFetcherService\CryptoTracker.Fetcher.Worker\CryptoTracker.Fetcher.Worker.csproj", "{56A5DF22-3239-43B8-8C33-70F5081EF389}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Fetcher.Tests", "services\PriceFetcherService\CryptoTracker.Fetcher.Tests\CryptoTracker.Fetcher.Tests.csproj", "{43A60E00-485B-49F9-A2B3-3857505B4403}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{C21C83AC-1E5A-4684-B367-0308378A387C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PriceApiService", "PriceApiService", "{BFE40782-293D-426D-9AF4-4E319EF90C5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Price.Domain", "services\PriceApiService\CryptoTracker.Price.Domain\CryptoTracker.Price.Domain.csproj", "{97980253-B362-4683-8375-4AFBF4BBD185}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Price.Application", "services\PriceApiService\CryptoTracker.Price.Application\CryptoTracker.Price.Application.csproj", "{73D442E6-17F9-4ADB-919F-462953FBF5AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Price.Infrastructure", "services\PriceApiService\CryptoTracker.Price.Infrastructure\CryptoTracker.Price.Infrastructure.csproj", "{5D15636B-670B-4908-9711-D67CF160B62D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Price.API", "services\PriceApiService\CryptoTracker.Price.API\CryptoTracker.Price.API.csproj", "{E159D620-D843-4174-B3DA-BF4EE5AFACA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Price.Tests", "services\PriceApiService\CryptoTracker.Price.Tests\CryptoTracker.Price.Tests.csproj", "{28A4ED7D-7E7E-4D25-B9B7-10C13475ABCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Fetcher.Application", "services\PriceFetcherService\CryptoTracker.Fetcher.Application\CryptoTracker.Fetcher.Application.csproj", "{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PriceFetcherService", "PriceFetcherService", "{337298A4-45F5-41C9-AED6-9C4724504586}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Shared.Domain", "Shared\CryptoTracker.Shared.Domain\CryptoTracker.Shared.Domain.csproj", "{BC5D4B40-78C5-4ED9-8A3A-F01D922027C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoTracker.Shared.Infrastructure", "Shared\CryptoTracker.Shared.Infrastructure\CryptoTracker.Shared.Infrastructure.csproj", "{C09D1719-AB84-4D06-998C-B1C1332B4B90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shared", "shared", "{3375FBE4-1E7E-43BF-87E5-087A2879E0D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB5E4924-52BA-4621-8D2C-F608F330B768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5E4924-52BA-4621-8D2C-F608F330B768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5E4924-52BA-4621-8D2C-F608F330B768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5E4924-52BA-4621-8D2C-F608F330B768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D047FEC1-B743-4931-91D2-42E4C7EF2B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D047FEC1-B743-4931-91D2-42E4C7EF2B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D047FEC1-B743-4931-91D2-42E4C7EF2B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D047FEC1-B743-4931-91D2-42E4C7EF2B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A5DF22-3239-43B8-8C33-70F5081EF389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A5DF22-3239-43B8-8C33-70F5081EF389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A5DF22-3239-43B8-8C33-70F5081EF389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A5DF22-3239-43B8-8C33-70F5081EF389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A60E00-485B-49F9-A2B3-3857505B4403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A60E00-485B-49F9-A2B3-3857505B4403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A60E00-485B-49F9-A2B3-3857505B4403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A60E00-485B-49F9-A2B3-3857505B4403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97980253-B362-4683-8375-4AFBF4BBD185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97980253-B362-4683-8375-4AFBF4BBD185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97980253-B362-4683-8375-4AFBF4BBD185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97980253-B362-4683-8375-4AFBF4BBD185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D442E6-17F9-4ADB-919F-462953FBF5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D442E6-17F9-4ADB-919F-462953FBF5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D442E6-17F9-4ADB-919F-462953FBF5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D442E6-17F9-4ADB-919F-462953FBF5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D15636B-670B-4908-9711-D67CF160B62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D15636B-670B-4908-9711-D67CF160B62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D15636B-670B-4908-9711-D67CF160B62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D15636B-670B-4908-9711-D67CF160B62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E159D620-D843-4174-B3DA-BF4EE5AFACA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E159D620-D843-4174-B3DA-BF4EE5AFACA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E159D620-D843-4174-B3DA-BF4EE5AFACA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E159D620-D843-4174-B3DA-BF4EE5AFACA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A4ED7D-7E7E-4D25-B9B7-10C13475ABCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A4ED7D-7E7E-4D25-B9B7-10C13475ABCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A4ED7D-7E7E-4D25-B9B7-10C13475ABCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A4ED7D-7E7E-4D25-B9B7-10C13475ABCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FC3075-000B-4FA7-AC34-724BC2F3DB12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5D4B40-78C5-4ED9-8A3A-F01D922027C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5D4B40-78C5-4ED9-8A3A-F01D922027C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5D4B40-78C5-4ED9-8A3A-F01D922027C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5D4B40-78C5-4ED9-8A3A-F01D922027C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09D1719-AB84-4D06-998C-B1C1332B4B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09D1719-AB84-4D06-998C-B1C1332B4B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09D1719-AB84-4D06-998C-B1C1332B4B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09D1719-AB84-4D06-998C-B1C1332B4B90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB5E4924-52BA-4621-8D2C-F608F330B768} = {337298A4-45F5-41C9-AED6-9C4724504586}
+		{D047FEC1-B743-4931-91D2-42E4C7EF2B6B} = {337298A4-45F5-41C9-AED6-9C4724504586}
+		{56A5DF22-3239-43B8-8C33-70F5081EF389} = {337298A4-45F5-41C9-AED6-9C4724504586}
+		{43A60E00-485B-49F9-A2B3-3857505B4403} = {337298A4-45F5-41C9-AED6-9C4724504586}
+		{BFE40782-293D-426D-9AF4-4E319EF90C5D} = {C21C83AC-1E5A-4684-B367-0308378A387C}
+		{97980253-B362-4683-8375-4AFBF4BBD185} = {BFE40782-293D-426D-9AF4-4E319EF90C5D}
+		{73D442E6-17F9-4ADB-919F-462953FBF5AB} = {BFE40782-293D-426D-9AF4-4E319EF90C5D}
+		{5D15636B-670B-4908-9711-D67CF160B62D} = {BFE40782-293D-426D-9AF4-4E319EF90C5D}
+		{E159D620-D843-4174-B3DA-BF4EE5AFACA5} = {BFE40782-293D-426D-9AF4-4E319EF90C5D}
+		{28A4ED7D-7E7E-4D25-B9B7-10C13475ABCE} = {BFE40782-293D-426D-9AF4-4E319EF90C5D}
+		{D4FC3075-000B-4FA7-AC34-724BC2F3DB12} = {337298A4-45F5-41C9-AED6-9C4724504586}
+		{337298A4-45F5-41C9-AED6-9C4724504586} = {C21C83AC-1E5A-4684-B367-0308378A387C}
+		{BC5D4B40-78C5-4ED9-8A3A-F01D922027C4} = {3375FBE4-1E7E-43BF-87E5-087A2879E0D4}
+		{C09D1719-AB84-4D06-998C-B1C1332B4B90} = {3375FBE4-1E7E-43BF-87E5-087A2879E0D4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84451F1F-7A91-4CC0-8205-A1ED26431D3F}
+	EndGlobalSection
+EndGlobal

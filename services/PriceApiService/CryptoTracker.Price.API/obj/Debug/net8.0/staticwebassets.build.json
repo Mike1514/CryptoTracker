@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IzDa9Ps25HRm1nCwZ/2dqFYlFauo8ClDR4uIFUOh6L4=",
+  "Source": "CryptoTracker.Price.API",
+  "BasePath": "_content/CryptoTracker.Price.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

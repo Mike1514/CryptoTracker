@@ -1,0 +1,13 @@
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\bin\Debug\net8.0\CryptoTracker.Shared.Domain.deps.json
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\bin\Debug\net8.0\CryptoTracker.Shared.Domain.runtimeconfig.json
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\bin\Debug\net8.0\CryptoTracker.Shared.Domain.dll
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\bin\Debug\net8.0\CryptoTracker.Shared.Domain.pdb
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\obj\Debug\net8.0\CryptoTracker.Shared.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\obj\Debug\net8.0\CryptoTracker.Shared.Domain.AssemblyInfoInputs.cache
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\obj\Debug\net8.0\CryptoTracker.Shared.Domain.AssemblyInfo.cs
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\obj\Debug\net8.0\CryptoTracker.Shared.Domain.csproj.CoreCompileInputs.cache
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\obj\Debug\net8.0\CryptoTracker.Shared.Domain.dll
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\obj\Debug\net8.0\refint\CryptoTracker.Shared.Domain.dll
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\obj\Debug\net8.0\CryptoTracker.Shared.Domain.pdb
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\obj\Debug\net8.0\CryptoTracker.Shared.Domain.genruntimeconfig.cache
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Domain\obj\Debug\net8.0\ref\CryptoTracker.Shared.Domain.dll

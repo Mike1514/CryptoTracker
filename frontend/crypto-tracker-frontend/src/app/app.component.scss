@@ -1,0 +1,12 @@
+.dashboard {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1rem;
+  padding: 1rem;
+
+  app-stats {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+}

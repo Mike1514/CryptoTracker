@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "CryptoTracker.Price.API.Controllers.PriceController",
+    "Method": "GetPrices",
+    "RelativePath": "api/Price",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\bin\Debug\net8.0\appsettings.json
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\bin\Debug\net8.0\CryptoTracker.Shared.Settings.deps.json
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\bin\Debug\net8.0\CryptoTracker.Shared.Settings.dll
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\bin\Debug\net8.0\CryptoTracker.Shared.Settings.pdb
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\obj\Debug\net8.0\CryptoTracker.Shared.Settings.GeneratedMSBuildEditorConfig.editorconfig
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\obj\Debug\net8.0\CryptoTracker.Shared.Settings.AssemblyInfoInputs.cache
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\obj\Debug\net8.0\CryptoTracker.Shared.Settings.AssemblyInfo.cs
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\obj\Debug\net8.0\CryptoTracker.Shared.Settings.csproj.CoreCompileInputs.cache
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\obj\Debug\net8.0\CryptoTracker.Shared.Settings.dll
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\obj\Debug\net8.0\refint\CryptoTracker.Shared.Settings.dll
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\obj\Debug\net8.0\CryptoTracker.Shared.Settings.pdb
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Settings\obj\Debug\net8.0\ref\CryptoTracker.Shared.Settings.dll

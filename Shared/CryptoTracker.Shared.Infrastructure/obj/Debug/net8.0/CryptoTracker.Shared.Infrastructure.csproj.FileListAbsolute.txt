@@ -1,0 +1,17 @@
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\bin\Debug\net8.0\CryptoTracker.Shared.Infrastructure.deps.json
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\bin\Debug\net8.0\CryptoTracker.Shared.Infrastructure.runtimeconfig.json
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\bin\Debug\net8.0\CryptoTracker.Shared.Infrastructure.dll
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\bin\Debug\net8.0\CryptoTracker.Shared.Infrastructure.pdb
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\bin\Debug\net8.0\CryptoTracker.Shared.Domain.dll
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\bin\Debug\net8.0\CryptoTracker.Shared.Domain.pdb
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\CryptoTracker.Shared.Infrastructure.csproj.AssemblyReference.cache
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\CryptoTracker.Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\CryptoTracker.Shared.Infrastructure.AssemblyInfoInputs.cache
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\CryptoTracker.Shared.Infrastructure.AssemblyInfo.cs
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\CryptoTracker.Shared.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\CryptoTr.D80E9F1A.Up2Date
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\CryptoTracker.Shared.Infrastructure.dll
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\refint\CryptoTracker.Shared.Infrastructure.dll
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\CryptoTracker.Shared.Infrastructure.pdb
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\CryptoTracker.Shared.Infrastructure.genruntimeconfig.cache
+D:\CryptoTrackerSolution\Shared\CryptoTracker.Shared.Infrastructure\obj\Debug\net8.0\ref\CryptoTracker.Shared.Infrastructure.dll
