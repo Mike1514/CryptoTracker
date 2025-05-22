@@ -4,7 +4,7 @@
 
  Опис проекту
 
-CryptoTracker— це система з мікросервісною архітектурою, яка складається з:
+CryptoTracker— це система з мікросервісною архітектурою(монорепозиторій), яка складається з:
 
 - **PriceFetcherService** — сервіс, який періодично отримує актуальні ціни на BTC через API.
 - **PriceApiService** — API для отримання збережених цін з бази даних.
@@ -98,3 +98,13 @@ Add-Migration <Ім'яМіграції>
 ```
 Update-Database 
 ```
+
+## Аспекти для покращення
+### Frontend
+1. Переписати на standalone компоненти, замінити declarations на imports
+2. Заімпортувати необхідні імпорти в кожен standalone компонент
+3. Видалити app.module
+4. В main.ts замінити bootstrapModule на bootstrapApplication з бутстрапом AppComponent
+ 
+### Backend
+1. Додати бьільше Unit та Integration тестів
